@@ -1,4 +1,4 @@
-# KakasiParser
+# KakasiParser [![Gem Version](https://badge.fury.io/rb/kakasi_parser.svg)](https://badge.fury.io/rb/kakasi_parser)
 
 Return all readings as array from result string of Kakasi with -p option.
 
