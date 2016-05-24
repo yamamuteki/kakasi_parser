@@ -1,4 +1,4 @@
-# KakasiParser [![Gem Version](https://badge.fury.io/rb/kakasi_parser.svg)](https://badge.fury.io/rb/kakasi_parser) [![Build Status](https://travis-ci.org/yamamuteki/kakasi_parser.svg?branch=master)](https://travis-ci.org/yamamuteki/kakasi_parser) [![Coverage Status](https://coveralls.io/repos/github/yamamuteki/kakasi_parser/badge.svg?branch=master)](https://coveralls.io/github/yamamuteki/kakasi_parser?branch=master)
+# KakasiParser [![Gem Version](https://badge.fury.io/rb/kakasi_parser.svg)](https://badge.fury.io/rb/kakasi_parser) [![Build Status](https://travis-ci.org/yamamuteki/kakasi_parser.svg?branch=master)](https://travis-ci.org/yamamuteki/kakasi_parser) [![Coverage Status](https://coveralls.io/repos/github/yamamuteki/kakasi_parser/badge.svg?branch=master)](https://coveralls.io/github/yamamuteki/kakasi_parser?branch=master) [![Code Climate](https://codeclimate.com/github/yamamuteki/kakasi_parser/badges/gpa.svg)](https://codeclimate.com/github/yamamuteki/kakasi_parser)
 
 Return all readings as array from result string of Kakasi with -p option.
 
